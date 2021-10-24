@@ -3,5 +3,6 @@ O Jogo do Dinossauro no navegador Google Chrome é um segredo bastante útil par
 
 <p align="center">
   <img src="https://i0.wp.com/gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2018/09/dino-chrome.gif?resize=480%2C152&ssl=1" width="auto" title="hover text">
-
 </p>
+
+Com este código, você pode construir um "dedo robótico" para fazer com que o dinossauro pule sozinho sobre os cactos.
